@@ -6,11 +6,13 @@
   margin-right: 0.5rem;
   width: 30%;
   border-radius: 0.5rem;
+  font-size: 2.0rem;
 }
 
 .text-center {
   display: flex;
   place-items: center;
+  place-content: center;
   flex-direction: column;
 }
 
